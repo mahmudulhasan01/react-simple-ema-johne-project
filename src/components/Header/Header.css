@@ -1,0 +1,19 @@
+.logo-img img{
+    height: 80px;
+}
+
+.logo-img{
+    text-align: center;
+}
+
+.nav-link{
+    padding-top: 15px;
+    background-color:black ;
+    height: 40px;
+   
+}
+.nav-link a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
