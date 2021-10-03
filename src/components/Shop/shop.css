@@ -1,4 +1,16 @@
 
+.search-container{
+
+    background-color: rgba(0, 0, 0, 0.808);
+    padding-bottom: 15px;
+    padding-top: 10px;
+    text-align: center;
+}
+.search-container input{
+    width: 50%;
+    height: 30px;
+    border-radius: 3px;
+}
 .shop-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
